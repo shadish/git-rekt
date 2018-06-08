@@ -9,4 +9,4 @@ Add Master Nonsense: Initial commit to branchA.
 Add Master Nonsense: Second line(also from branchA).
 >>>>>>> 5b7e1a6... add cherry pick commit
 Forget everything except branchA.
-Add an element TO cherry pick.
+Forget everything except branchA.
