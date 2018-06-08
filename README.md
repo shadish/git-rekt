@@ -13,3 +13,5 @@ Initial commit to master (changed with branchB).
 Second line commited with branchB.
 Initial commit to master (edited on master).
 Second line added to master.
+Initial commit to master (changed with branchB).
+Second line commited with branchB.
