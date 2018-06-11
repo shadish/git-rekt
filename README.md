@@ -10,3 +10,4 @@ Add Master Nonsense: Second line(also from branchA).
 >>>>>>> 5b7e1a6... add cherry pick commit
 Forget everything except branchA.
 Forget everything except branchA.
+Add element to NOT be cherry picked.
